@@ -1,2 +1,2 @@
-# Kickstarter-analysis
-Module 1 - analyzing trends on kickstarter
+# An Analysis of Kickstarter Campaigns
+An analysis of various trends in Successful and Failed Campaigns
