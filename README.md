@@ -24,12 +24,15 @@ One of the challenges we faced during our analysis was that the date data was pr
   Based on our analysis, we concluded that May appears to be the optimal month for lanching _Theater_ Kickstarter campaigns. Additionally, we found December to be the least optimal month for launching such a campaign.   
   
 - What can you conclude about the Outcomes based on Goals?
+
   Based on our analysis, we believe that Kickstarter campaigns with lower goals tend to have a higher success rate, with goals less than $5K experiencing the highest rate of sucess.
   
 - What are some limitations of this dataset?
+
   This analysis does not consider various qualitative data points (such as name-recognition of actors, entertainment value of Plays, etc), which also play a role in the success / failure of a given Campaign. Additionally, for the analysis of Outcomes Based on Goals, there was limited data to analyze for kickstarter campaigns with goals greater than $10K, which makes the percentage data less reliable. For example, based on the chart above, campaigns with goals < $20K seem to indicate that lower goal amounts lead to higher success rates. However, this does not hold true when we suddenly see that Campaigns with $35K to $45K goals have higher success rates than Campaigns with $5K to $34K goals. 
   
 - What are some other possible tables and/or graphs that we could create?
+
   Of course, there are many other ways we can analyze this data. 
   - When thinking about potential launch dates, we should also consider that while May had the highest number of successful campaigns, it was also the month with the highest number of campaign launches in total. We could also plot the percentage of successful campaigns each month, to see which month had the highest sucess "rate" as opposed to simply the highest "count" of successful campaigns. 
   - In terms of Outcomes based on Goals, we may have considered splitting the population with Goals between $1 to $20K into one thousand dollar (instead of five thousand dollar) intervals. This may allow us to see the data at a higher level of granularity, and confirm our theory regarding diminishing returns on higher $ Kickstarter goals. 
