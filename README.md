@@ -3,7 +3,8 @@
 ## Overview of Project
 
 ### Purpose
-Analyzing seasonality of Kickstarters backing Plays and determining the optimal fundraising goal.
+Analyzing seasonality of _Theater_ Kickstarters (specifically those backing _Plays_) and determining the optimal fundraising goals.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
